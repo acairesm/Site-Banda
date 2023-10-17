@@ -72,12 +72,57 @@ left: 43%;
 }
 
 .botaoum {
+color: #f7c72a;
+letter-spacing: 1px;
+background-color: rgba(0, 0, 0, 0);
+border: 1px solid #f7c72a ;
+padding: 26px 11px;
+margin: 9px;
+font-size: 16px;
+height: 20px;
+font-weight: 400px;
+line-height: 1px;
+transition: color .2s, border-color .2s;
+margin-top: 1;
+display: inline-block;
+position: relative;
+top: 410px;
+left: 430px;
 
 
-
-
-    
 }
+.botaoum:hover{
+    color: #fff;
+    border-color: #fff;
+}
+
+.butaodois{
+    color: #f7c72a;
+    letter-spacing: 1px;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #f7c72a ;
+    padding: 26px 11px;
+    margin: 9px;
+    font-size: 16px;
+    height: 20px;
+    font-weight: 400px;
+    line-height: 1px;
+    transition: color .2s, border-color .2s;
+    margin-top: 1;
+    display: inline-block;
+    position: relative;
+    top: 410px;
+    left: 430px;
+    
+
+}
+
+.butaodois:hover{
+    color: #fff;
+    border-color: #fff;
+}
+
+
 
 .corpoum {
     height: 100vh;
